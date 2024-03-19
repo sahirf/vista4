@@ -6,7 +6,7 @@ export const FondoAzul = () => {
   return (
     <div
       style={{
-        backgroundColor: '#0e0e8a',
+        backgroundColor: '#090972',
         height: '100vh',
         width: '100vw',
         clipPath: 'polygon(0% 0%, 100% 0%, 100% 40%, 0% 57%)'
